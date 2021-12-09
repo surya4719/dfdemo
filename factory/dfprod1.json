@@ -1,0 +1,9 @@
+{
+	"name": "dfprod1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d73ee27d-6751-4f01-84b0-0ed4200435ad",
+		"tenantId": "8aac3eeb-5127-45ea-b1ef-454856977e68"
+	}
+}
